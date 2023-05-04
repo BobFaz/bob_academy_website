@@ -1,0 +1,83 @@
+@media (min-width:1400px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+
+/* navigation menu */
+.navbar-brand {
+    font-weight: 500 ;
+    font-family: 'Montserrat';
+}
+
+.navbar-light .navbar-nav .navbar-link.active,
+.navbar-brand .navbar-nav .show>.navbar-link,
+.navbar-light .navbar-nav .nav-link {
+    font-size: 14px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    padding: 10px 20px;
+
+}
+
+/* home */
+
+.home {
+    background-color: #F0F5F9; 
+    padding: 150px 0 100px 0;
+}
+
+/* about */
+
+.about-card-1 {
+    background-color: #FFF2E5;
+}
+
+.about-card-2 {
+    background-color: #F8F9FA;
+}
+
+.about-card-3 {
+    background-color: #F0F5F9;
+}
+
+.about-card-img {
+    width: 80px;
+}
+
+/* Features */
+
+.features__container {
+    background-color: #F0F5F9;
+}
+
+/* Results */
+
+.results__card-image {
+    width: 80px;
+}
+
+/* Review */
+
+
+.reviews__container {
+    background-color: #F0F5F9;
+    padding: 100px 50px;
+}
+
+/* Pricing */
+
+.pricing__card {
+    background-color: #f0f5f9;
+}
+
+.pricing__review-image {
+    width: 120px;
+}
+
+
+
+.faq__container {
+    background-color: #F0F5F9;
+    padding: 100px 50px;
+}
